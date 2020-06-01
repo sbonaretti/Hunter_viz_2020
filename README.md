@@ -1,4 +1,4 @@
 # John Hunter - Excellence in Plotting Context 2020
 
-To be finished on June 2
+Dashboard live on June 2
 
