@@ -1,6 +1,6 @@
 # John Hunter - Excellence in Plotting Context 2020
 
-Dashboard live and on binder soon 
+## Dashboard live and on binder soon 
 
 
 ## How to reuse the code for your own dataset
@@ -9,4 +9,4 @@ Dashboard live and on binder soon
   - Change file name to your own `.csv` file name  
   - Comment out `zenodo_url = "https://zenodo.org/record/3872040/files/"`
   - Comment out `wget.download(zenodo_url + file_name, "./" + file_name) # input, output`
-  - Make sure your `.csv` file is in the same folder as your notebook
+- Make sure your `.csv` file is in the same folder as your notebook
