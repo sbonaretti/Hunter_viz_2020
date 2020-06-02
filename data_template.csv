@@ -1,0 +1,10 @@
+﻿algorithm_type,bibtex_id,author_1,country_last_author,title,year,link_to_open_original_data,link_to_open_derived_data,link_to_open_source_code,link_to_open_access,latitude,longitude
+atlas-based,Bonaretti_2020,Bonaretti S,USA,pyKNEEr: An image analysis workflow for open and reproducible research on femoral knee cartilage,2019,https://nda.nih.gov/oai/,https://zenodo.org/record/2583184#.XtVN9hMzZIY,https://github.com/sbonaretti/pyKNEEr,https://doi.org/10.1371/journal.pone.0226501,37.4275,-122.1697
+,,,,,,,,,,,
+,,,,,,,,,,,
+NOTES (to be deleted when using this file as the input of the notebook):,,,,,,,,,,,
+- Row 2 is an example of how to fill out the file. Delete it after adding your own data,,,,,,,,,,,
+"- If a column does not apply to your dataset, I recommend to just leave it empty, instead of deleting the whole column. If you want to delete the column, you need to modify some code ",,,,,,,,,,,
+"- To calculate latitude and longitude, you can search in Google:",,,,,,,,,,,
+"   - E.g. ""San Francisco longitude"" in Google returns: 37.7749° N, 122.4194° W",,,,,,,,,,,
+"   - Note that for the plotly map, the coordinates must be Nord and East, so if you get South or West, add a minus. For the San Francisco example, in the table you would enter: latitude = 37.7749; longitude: -122.4194",,,,,,,,,,,
