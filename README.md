@@ -2,7 +2,19 @@
 
 ## Dashboard live and on binder soon 
 
-
+## Run the dashboard locally 
+In terminal:
+- Install voilà and jupyter-flex:  
+  ```
+  pip install voila
+  pip install jupyter-flex
+  ```
+- Create the dashboard:
+  ```
+  voila --template=flex open_literature_flex.ipynb 
+  ```
+Note: If using JupyterLab, might need to restart
+  
 ## How to reuse the code for your own dataset
 - Fill out `data_template.csv` with your own data. Information about the data fields are in the file itself  
 - In `open_literature_flex.ipynb`, under `Load the data`:
