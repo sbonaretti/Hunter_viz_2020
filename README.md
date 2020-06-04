@@ -15,11 +15,11 @@ The data used for this example are about the literature on knee cartilage segmen
 
 This dashboard can potentially be extended and used by other communities, using the template .csv file provided in the github repository for the literature research. 
 
-DOI of references:
-Sandve et al. 2013: https://doi.org/10.1371/journal.pcbi.1003285
-Rule et al. 2018: https://doi.org/10.1371/journal.pcbi.1007007
-Donoho et al. 2009: https://doi.org/10.1109/MCSE.2009.15
-Bonaretti et al. 2020: https://doi.org/10.1371/journal.pone.0226501
+DOI of references:  
+- Sandve et al. 2013: https://doi.org/10.1371/journal.pcbi.1003285  
+- Rule et al. 2018: https://doi.org/10.1371/journal.pcbi.1007007  
+- Donoho et al. 2009: https://doi.org/10.1109/MCSE.2009.15  
+- Bonaretti et al. 2020: https://doi.org/10.1371/journal.pone.0226501  
 
 ## Dashboard on binder 
 Coming soon! - Solving layout issues!
