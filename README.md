@@ -1,5 +1,8 @@
 # John Hunter - Excellence in Plotting Context 2020  
 
+
+![](viz_hunter.png) 
+
 Open science and reproducible research are fundamental to assess the value of scientific claim, compare new methods to existing ones, and collaborate to improve and expand robust scientific workflows to accelerate scientific discoveries, among others (Sandve et al. 2013, Rule et al. 2018). Some of the main characteristics that make a study open and reproducible are openness of original data and derived data (i.e. data created from a computation), open-source code, and open access publication. When data, code, and publication are available, papers transition from being advertisement of scientific work towards representing the actual scholarship (Donoho et al. 2009). 
  
 This dashboard is meant to visualize openness and, potentially, reproducibility, of the papers published in a scientific domain. It is composed of three parts: 
