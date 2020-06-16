@@ -1,5 +1,7 @@
 # John Hunter - Excellence in Plotting Context 2020  
 
+See below the abstract for info on how to run it
+
 ![](viz_hunter.png) 
 
 
