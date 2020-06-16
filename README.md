@@ -30,7 +30,8 @@ Click the button below to start a binder session:
 
 Once started:
 - Go to `Cell`->`Run all`
-- Click on the `Voilà` button.  
+- Click on the `Voilà` button.
+
 Give it a few seconds, and have fun!
 
 ## Run the dashboard locally 
