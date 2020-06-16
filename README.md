@@ -21,8 +21,8 @@ DOI of references:
 - Donoho et al. 2009: https://doi.org/10.1109/MCSE.2009.15  
 - Bonaretti et al. 2020: https://doi.org/10.1371/journal.pone.0226501  
 
-## Dashboard on binder 
-Coming soon! - Solving layout issues!
+## Dashboard live
+Coming soon! 
 
 ## Run the dashboard locally 
 In terminal:
