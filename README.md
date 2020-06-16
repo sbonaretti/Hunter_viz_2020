@@ -22,7 +22,13 @@ DOI of references:
 - Bonaretti et al. 2020: https://doi.org/10.1371/journal.pone.0226501  
 
 ## Dashboard live
-Coming soon! 
+Click the button below to start a binder session. Once started:
+- Go to `Cell`->`Run all`
+- Click on the `Voilà` button.
+Give it a few seconds, and have fun!
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sbonaretti/Hunter_viz_2020/master?filepath=open_literature_flex.ipynb)
+
 
 ## Run the dashboard locally 
 In terminal:
